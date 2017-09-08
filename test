@@ -1,4 +1,9 @@
 testing gitweb hook
+<<<<<<< HEAD
 foo
 abc
+abc
+=======
+testing
+>>>>>>> 7e96461a4ce5c46eebfde95fb4ceb271fee4195a
 abc
